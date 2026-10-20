@@ -1,0 +1,6 @@
+{
+  "name": "Digital Mystery Room",
+  "description": "An interactive browser-based escape room game featuring immersive cyber investigations, encrypted puzzles, interactive room exploration, and progress tracking for a B.Tech CSE project.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
